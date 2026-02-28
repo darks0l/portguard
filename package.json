@@ -1,5 +1,5 @@
 {
-  "name": "portguard",
+  "name": "@darksol/portguard",
   "version": "1.0.0",
   "description": "Dev-friendly CLI to monitor and manage localhost ports.",
   "author": "darksol",
